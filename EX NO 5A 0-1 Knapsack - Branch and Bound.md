@@ -1,6 +1,6 @@
 # EX 5A 0/1 Knapsack Problem - Branch&Bound
 
-## DATE: 24-08-2026
+## DATE: 10-09-2026
 
 ### Developed By: Nithish R
 
